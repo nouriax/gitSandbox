@@ -1,9 +1,5 @@
-# Demo Project README
+# My web site
 
-This is a simple readme file
 
-## the seconde head line
-
-im on the branch
 
 hello world
